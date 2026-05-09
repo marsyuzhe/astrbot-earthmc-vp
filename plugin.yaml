@@ -1,5 +1,19 @@
-name: earthmc_vp
+name: astrbot_plugin_earthmc_vp
+
+display_name: EarthMC VP
+
+desc: EarthMC VoteParty Monitor Plugin for AstrBot
+
 version: 1.0.0
-main: main.py
-author: YourName
-summary: EarthMC VoteParty Monitor
+
+author: marsyuzhe
+
+repo: https://github.com/marsyuzhe/astrbot_plugin_earthmc_vp
+
+astrbot_version: ">=4.0.0"
+
+support_platforms:
+  - aiocqhttp
+  - qq_official
+  - telegram
+  - discord
