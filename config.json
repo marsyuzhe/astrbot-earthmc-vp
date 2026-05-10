@@ -1,4 +1,5 @@
 {
-  "check_interval": 60,
-  "alert_threshold": 100
+  "check_interval": 1800,
+  "alert_threshold": 200,
+  "alert_group": "1104171713"
 }
